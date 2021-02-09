@@ -1,0 +1,71 @@
+body 
+{
+    background: url(./assests/bgp.gif);
+    height: 100;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+background-size: cover;
+    
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+h1 { 
+    color: rgb(247, 83, 8);
+    font-size: 52px; text-align: center;
+    }
+
+    .navbar
+    {
+        text-align: center;
+    padding: 20px;
+    }
+    .navbar a {
+        text-decoration: none;
+    color: rgb(236, 252, 19);
+    font-size: 20px;
+    font-family:  sans-serif;
+    margin: 40px;
+    border: 2px solid transparent;
+    padding: 5px;
+    transition: 0.3s;
+    }
+    
+    
+    .navbar a:hover
+    {
+        background-color: rgb(226, 130, 130)  ;
+        border: 2px solid black;
+        border-radius: 30%;    
+    }
+
+
+
+
+
+h2
+{ 
+    font-size: 28px;
+    
+}
+
+h2 {color: rgb(14, 73, 236);}
+
+p {
+    font-size: 18px;
+   color: rgb(213, 248, 88);
+   font-style: normal;
+    width: 900px;
+    border: 2px transparent;
+    padding: 2px;}
+
+li{ font-size: 18px; color: salmon; 
+    }
+
+button .back
+{
+color: rgb(233, 135, 43); size: 20px;
+border: solid red;
+}

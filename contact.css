@@ -1,0 +1,67 @@
+body
+{
+  background:url(./assests/sim.gif);
+height: 105vh;
+width: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+h1{ size: 70;
+color: rgb(56, 231, 13);
+text-align: center;
+}
+
+h2
+{
+    size: 50;
+    color: rgb(86, 139, 0);
+    text-align: center;
+}
+p
+{size: 38;
+color: darkorange;
+text-align: center;
+}
+.navbar
+{
+    text-align: center;
+padding: 20px;
+}
+.navbar a {
+    text-decoration: none;
+color: rgb(252, 46, 19);
+font-size: 20px;
+font-family:  sans-serif;
+margin: 40px;
+border: 2px solid transparent;
+padding: 5px;
+transition: 0.3s;
+}
+
+
+.navbar a:hover
+{
+    background: rgb(208, 255, 0);
+    border: 2px solid black;
+    border-radius: 30%;    
+}
+.com
+{ 
+  color: rgb(162, 177, 30);
+size: 26;
+text-align: center;
+}
+
+.social 
+{
+  text-decoration: none;
+  size:40px;
+ 
+  padding:10px;
+  margin: 20px;
+  margin-top: -240px;
+  vertical-align: centre;
+  }
+

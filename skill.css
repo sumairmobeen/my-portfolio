@@ -1,0 +1,56 @@
+body
+{
+    background: url(./assests/man.gif);
+height: 105vh;
+width: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+
+.navbar
+{
+    text-align: center;
+padding: 20px;
+}
+.navbar a {
+    text-decoration: none;
+color: rgb(252, 46, 19);
+font-size: 20px;
+font-family:  sans-serif;
+margin: 40px;
+border: 2px solid transparent;
+padding: 5px;
+transition: 0.3s;
+}
+
+
+.navbar a:hover
+{
+    background: rgb(208, 255, 0);
+    border: 2px solid black;
+    border-radius: 30%;    
+}
+
+
+h1{
+    font-size: 40px;
+    color: greenyellow;
+    font-style: normal;
+    text-align: center;
+}
+h2, h3
+{
+    font-size:38;
+    font-family: sans-serif;
+    color: lightskyblue;
+}
+
+ol, ul
+{
+    font-size: 24;
+    font-family:Times New Roman;
+    color: orange;
+    
+}

@@ -1,0 +1,44 @@
+head{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{background-image: url(./assests/gr.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.navbar
+{
+    text-align: center;
+padding: 10px;
+}
+.navbar a {
+    text-decoration: none;
+color: rgba(223, 253, 115, 0.911);
+font-size: 20px;
+font-family:  sans-serif;
+margin: 40px;
+border: 2px solid transparent;
+padding: 2px;
+transition: 0.5s;
+
+}
+
+
+.navbar
+{
+    box-sizing: border-box;
+    background-color: rgb(14, 66, 9);
+    height: 50px;
+    
+}
+
+
+.navbar a:hover
+{
+    background: rgb(8, 10, 1);
+    border: 2px solid black;
+    border-radius: 30%;    
+}
